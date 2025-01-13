@@ -1,7 +1,7 @@
 # Data-Analysis-of-Orders
 
 This is an ETL project
-1. Extrated data from kaggle (Orders.csv file)
+1. Extracted data from kaggle (Orders.csv file)
 2. Data cleaning in python
 3. Loaded cleaned data into sql server (MSSM) for analytics purpose
 
@@ -17,11 +17,31 @@ Results:
 2. Reviewing Data using Select statement
 ![image](https://github.com/user-attachments/assets/fa3a9125-9d59-4931-b361-52261e323fbf)
 
-3. Find top 10 highest revenue generating products
-   Finding all product_id with highest sale_price
+3. Find all products with highest sale price (using product_id with highest sale_price)
    ![image](https://github.com/user-attachments/assets/432f7855-48da-41ec-bc7c-e17a47e79503)
 
-   Finding top 10 products
+   Find top 10 highest revenue generating products
    ![image](https://github.com/user-attachments/assets/80b4563e-5b11-4e79-81f7-2dc7356603bb)
 
-4. 
+4. Find top selling products in each region
+   ![image](https://github.com/user-attachments/assets/e34ce95e-1cfd-4fb1-9681-bbee7cc109a8)
+
+   Finding top 5 products in each region, we have total of 4 regions and need to find top 5 in each region, hence total 20 products is required.
+
+
+   Method 1 - using where clause
+   ![image](https://github.com/user-attachments/assets/0a1dc9d4-c333-4b94-a669-b1f4fb03569b)
+   ![image](https://github.com/user-attachments/assets/03864346-b643-45bc-9645-525faa09a0fb)
+   ![image](https://github.com/user-attachments/assets/a7bd2ddc-59a1-40ac-9203-dc7e410506f3)
+   ![image](https://github.com/user-attachments/assets/043157cd-c9e0-4f27-8d90-6dcb6d927d15)
+   
+   Method 2 - using ranks/row_number
+   ![image](https://github.com/user-attachments/assets/e4c8d276-d27c-42a3-b22e-dde5859a3492)
+
+      
+6. 
+
+
+
+   
+7. 
