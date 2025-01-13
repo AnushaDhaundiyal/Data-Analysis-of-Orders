@@ -1,16 +1,15 @@
 # Data-Analysis-of-Orders
-ETL project
-extrated data from kaggle (Orders.csv file)
-data cleaning in python
-loaded cleaned data into sql servre(mssm)
+
+This is an ETL project
+1. Extrated data from kaggle (Orders.csv file)
+2. Data cleaning in python
+3. Loaded cleaned data into sql server (MSSM) for analytics purpose
 
 
 
+Results:
 
-
-
-
-
+1. Uploading Tranformed Orders.CSV file into MSSM
 ![image](https://github.com/user-attachments/assets/cc1bc868-7103-4494-ba25-b7169f4ade6e)
 
 
