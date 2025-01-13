@@ -44,9 +44,12 @@ Results:
    ![image](https://github.com/user-attachments/assets/a29c0f21-722c-4538-96c0-d19731befbd6)
    ![image](https://github.com/user-attachments/assets/c9d7c846-c466-45b3-be7a-842a5a223db9)
 
-6.  
+6. For each category which month has the highest sales
+   ![image](https://github.com/user-attachments/assets/039c1f34-7963-4029-a269-795a46a4d4de)
+   ![image](https://github.com/user-attachments/assets/8474ef3c-b004-45fb-a3fe-c28b075d9f19)
+  
+7. Which sub category had highest growth by profit in 2023 compare to 2022
+   ![image](https://github.com/user-attachments/assets/bc004492-16ae-4b9c-8e28-7b6427fd3d80)
+   ![image](https://github.com/user-attachments/assets/de083b19-ed5b-4bc2-a04d-377d4c10f918)
+   ![image](https://github.com/user-attachments/assets/4b3cb01e-6623-4d81-835c-61164f70f2ca)
 
-
-
-   
-8. 
