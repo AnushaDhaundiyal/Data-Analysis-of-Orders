@@ -30,6 +30,7 @@ Results:
 
 
    Method 1 - using where clause
+   
    ![image](https://github.com/user-attachments/assets/0a1dc9d4-c333-4b94-a669-b1f4fb03569b)
    ![image](https://github.com/user-attachments/assets/03864346-b643-45bc-9645-525faa09a0fb)
    ![image](https://github.com/user-attachments/assets/a7bd2ddc-59a1-40ac-9203-dc7e410506f3)
@@ -38,10 +39,14 @@ Results:
    Method 2 - using ranks/row_number
    ![image](https://github.com/user-attachments/assets/e4c8d276-d27c-42a3-b22e-dde5859a3492)
 
-      
-6. 
+5. Find Month by month comparision for 2022 and 2023 sales data
+   ![image](https://github.com/user-attachments/assets/9aed1058-9525-47ae-b9e6-752305c35603)
+   ![image](https://github.com/user-attachments/assets/a29c0f21-722c-4538-96c0-d19731befbd6)
+   ![image](https://github.com/user-attachments/assets/c9d7c846-c466-45b3-be7a-842a5a223db9)
+
+6.  
 
 
 
    
-7. 
+8. 
